@@ -4,13 +4,13 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
     http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd/sitemap.xsd">
  <url>
-  <loc>https://ether-dex.github.io/creedexchange/</loc>
+  <loc>https://ether-dex.github.io/Deepexchange/</loc>
  </url>
  <url>
-  <loc>https://ether-dex.github.io/creedexchange/about/</loc>
+  <loc>https://ether-dex.github.io/Deepexchange/about/</loc>
  </url>
  <url>
-  <loc>https://ether-dex.github.io/creedexchange/#!/trade/0ED-ETH</loc>
+  <loc>https://ether-dex.github.io/Deepexchange/#!/trade/0ED-ETH</loc>
  </url>
  <url>
   <loc>https://ether-dex.github.io/creedexchange/#!/trade/10MT-ETH</loc>
